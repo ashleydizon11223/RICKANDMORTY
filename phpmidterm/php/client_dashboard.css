@@ -1,0 +1,42 @@
+
+
+h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    text-align: center;
+}
+
+.dashboard-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.username {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #3498db;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #513dc0;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+a:hover {
+    background-color: #463ccf;
+    text-align: center;
+}
